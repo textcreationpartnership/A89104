@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message from the Isle of Wight, brought by Major Cromwell. Coll: Hammond sent for by the Lord Generall, and Col: Ewers to be at the Isle of Wight. Also the chiefe heads of Bishop Ushers sermon. And His Majesties letter to the Parliament: brought this present Munday, Novemb. 27. 1648.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89104</idno><idno type="EEBO-CITATION">99864710</idno>
+  <idno type="VID">162448</idno>
+  <idno type="EEBO-PROQUEST">2240902336</idno>
+  
+            <idno type="STC">Wing M1899</idno>
+            <idno type="STC">Thomason E473_32</idno>
+            <idno type="STC">ESTC R205297</idno>
+            <idno type="PROQUEST">99864710</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864710e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162448)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message from the Isle of Wight, brought by Major Cromwell. Coll: Hammond sent for by the Lord Generall, and Col: Ewers to be at the Isle of Wight. Also the chiefe heads of Bishop Ushers sermon. And His Majesties letter to the Parliament: brought this present Munday, Novemb. 27. 1648.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162448:1"/>
+            <p> A <hi>Message</hi> from the Isle of <hi>WIGHT,</hi> Brought by Major <hi>Cromwell.</hi>
+            </p>
+            <p>
+               <hi>AND Read in the House of COMMONS.</hi>
+            </p>
+            <p>Coll: <hi>Hammond</hi> sent for by the Lord Generall, and Col: <hi>Ewers</hi> to be at the Isle of <hi>Wight.</hi>
+            </p>
+            <p>Also the Chiefe Heads of Bishop <hi>Ushers</hi> Sermon.</p>
+            <p>And His Majesties Letter to the Parliament: Brought this present Munday, <hi>Novemb.</hi> 27. 1648.</p>
+            <figure>
+               <figDesc>king seated on a throne, flanked by four men, while two smaller figures kneel before him</figDesc>
+            </figure>
+            <p>Printed for <hi>R. Smithurst,</hi> neer Pye-corner 1648,</p>
+            <pb facs="tcp:162448:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:162448:2"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King seems now to be more resolved for Bishops, then ever he was; The Treaty was broke up, because the Lords concurrence to the Commons Votes, came not down soone enough, and the King and the Commission<g ref="char:EOLhyphen"/>ers were parted. But so soone as they met with the Packet from the Lords, for the lengthening of the Treaty, the Commissioners returned back again to the Isle of Wight, but all to very little purpose.</p>
+            <p>His Majesty is so resolute for Bishops that he will by no means hearken either to have them abolished, or their lands sold, we had thoughts that the Primate of <hi>Ireland</hi> (Bishop of <hi>Armagh)</hi> would have been moderate here, and done some offices, but since he came, none hath been so mischievous a<g ref="char:EOLhyphen"/>mongst all the Kings Chaplaines, insomuch that hee hath much prejudised the Treaty.</p>
+            <p>He preached on the last Lords day, it being his Majesties birth day, and did so fawne upon the King, flattering his Majesty, that not only the very Malignants themselves, and all the Court were ashamed at it; But his Majesty himself held his Hand before his face, a good part of the sermon time, as blushing to hear his flattery.</p>
+            <p>And being asked (after Sermon) by some of the Court, why he would so flatter, and heighten the King, and seek to make the breach greater between His Majesty and the Parlia<g ref="char:EOLhyphen"/>ment at such a time as this? The Bishop answered, That what he preached, was not premeditated, but what then came into his mind; And that if he had said any thing that gave offence, desired that it might be imputed to the distem<g ref="char:EOLhyphen"/>per of his brain, after his journey, he being very weary.</p>
+            <p>The Bishops Text was <hi>Genesis</hi> 49. ver. 3. the words are these
+<pb n="2" facs="tcp:162448:3"/> Reuben <hi>thou art my first borne, my might, and the beginning of my strength, the excellency of my dignity, and the Excellency of power.</hi>
+            </p>
+            <p>From whence he had many inferences: <hi>Viz.</hi>
+            </p>
+            <p n="1">1 That <hi>Jacob (Reubens</hi> Father) was a great Prince, and so was <hi>Jacobus,</hi> his Majesties Father also: And both holy men, and in high esteem with God.</p>
+            <p n="2">2 That when <hi>Jacob</hi> dyed, <hi>Ruben</hi> was his heire; and so is his Majesty to King <hi>James.</hi> And that the Crowns of <hi>England, Scotland,</hi> and <hi>Ireland</hi> were his Majesties, not only by possession, but by right of succession.</p>
+            <p n="3">3 That the King hath Reigned over these kingdoms above these twenty years; and till these late unhappy warres, in great peace and plenty.</p>
+            <p n="4">4 That this is his Majesties forty ninth yeare of his age, and the 49 year, was of old, accounted the year of Jubilee, 7 times 7. And that it was then observed, that care was al<g ref="char:EOLhyphen"/>wayes taken for all such as were in prison, or servant, or slave, or any bondage, all to be set free. But that his Ma<g ref="char:EOLhyphen"/>jesty was more strictly dealt withall.</p>
+            <p n="5">5 That the might, and strength of the King was such, be<g ref="char:EOLhyphen"/>fore these wars, that thousands came, and many from farre, to see the excellency of dignity, and the excellency of pow<g ref="char:EOLhyphen"/>er, which they admired when they saw, as the Queen of <hi>She<g ref="char:EOLhyphen"/>ba</hi> admired <hi>Solomon.</hi>
+            </p>
+            <p n="6">6 Though his Majesty was low, yet his Excellency was of great dignity and power with God.</p>
+            <p n="7">7 That hee should not give away his birth-right of his might and power, wherein he doth so excell.</p>
+            <p>Yet his Majesty hath given in another paper, wherein he hath yeelded something more.</p>
+            <p>The Governour Coll: <hi>Hammond</hi> is sent for to the Gene<g ref="char:EOLhyphen"/>rall, and Col. <hi>Ewers</hi> is to command here, we expect (sudden<g ref="char:EOLhyphen"/>ly) that Orders will come from the Army to set a guard up<g ref="char:EOLhyphen"/>on the King. The Governour hath sent a Letter to the Par<g ref="char:EOLhyphen"/>liament by Major <hi>Cromwell,</hi> this bearer.</p>
+            <closer>
+               <dateline>Newport <date>25 <hi>Novemb.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="response">
+            <pb n="3" facs="tcp:162448:3"/>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>FOr a finall Answer to you: As to your Paper of the 11 of this instant, concerning the Church, and to your last Paper of the 20 instant, his Majesty saith, That hee is well pleased with the expressions, both in the Preface and the Conclusion of the said last Paper, That His two Houses intend not to force or of<g ref="char:EOLhyphen"/>fer violence, but to informe and rectifie His Consci<g ref="char:EOLhyphen"/>ence; and therefore notwithstanding the necessity which is urged upon Him through your whole Paper, for His present Concessions (which otherwise might seeme to contradict those Expressions which so well please his Majesty) yet he hopes his ensuing Answers will satisfie his two Houses, since hee is thereunto in<g ref="char:EOLhyphen"/>forced by his Conscience, which fully concurs with the sense of all other Parliaments (but this) since the Reformation.</p>
+            <p>First, As for the abolition of Episcopacy; if what you desire of His Majesty would not (being granted) absolutely remove, nay abolish the exercise of the A<g ref="char:EOLhyphen"/>postolicall Bishop, this Point would be soon agreed between His Majesty and His two Houses; for all the additionall Power and Jurisdiction which his Maje<g ref="char:EOLhyphen"/>sties Predecessors have bestowed upon that Apostoli<g ref="char:EOLhyphen"/>call Function, he hath consented shall be taken away, as, Arch-bishops, Deans, Champters, &amp;c. leaving nothing but what (as his Majesty beleeves to have proved by his Paper to your Divines) was clearly in<g ref="char:EOLhyphen"/>stituted by the Apostles themselves: And if he should give way to remove all Ecclesiasticall Sanctions, which by Law are exercised, by that Rule even the
+<pb n="4" facs="tcp:162448:4"/> Presbyters themselves might be taken away; for que<g ref="char:EOLhyphen"/>stionlesse the Civill Sanction gives the legall acting Power to all Divine Institutions, otherwise, the Christian Clergy would now be in little better case then they were before they were Christians.</p>
+            <p>As for those Apostolicall Practices which have or may (for the avoidance of greater evils) be altered, his Majesty denies not, that Circumstances may change the nature of Moral actions, and may, perhaps, make that which is a fault at one time (singly considered in it selfe) become a duty at another; yet if the particu<g ref="char:EOLhyphen"/>lars now demanded be not fit to be done, or, perhaps, a fault if done, his Majesty conceives (the good end being the same on both sides, to wit, the peace of the Kingdom) that the consideration of extraordinary cir<g ref="char:EOLhyphen"/>cumstances, ought rather in this case to have a power<g ref="char:EOLhyphen"/>full operation with his two Houses to recede from their Demands (which cannot be thought a fault in them) then to be made use of as an Argument to presse his Majesty to do a thing against his conscience, which appears to him to be unlawful, since the same good end may as well be obtained by relaxing on the one side, as by pressing on the other: Besides, his Majesty con<g ref="char:EOLhyphen"/>ceives not this to be of that number; it being not on<g ref="char:EOLhyphen"/>ly a bare practice, but an Institution for continuall use in the Church.</p>
+            <p>Secondly, As for the sale of Bishops Lands, his Ma<g ref="char:EOLhyphen"/>jesty conceives, That presidents in cases of Conscience cannot satisfie, they only proving, That such things were done, not the lawfullnes of them: Nor that the totall alienation of Church Lands (which is the true state of the question) is Sacriledge, Divines of all
+<pb n="5" facs="tcp:162448:4"/> sorts, and of all times (though otherwise differing in Opinions) yet herein agree with His Majesties Judgement; which being well weighed, he hopes may satisfie, as to this particular: nor can the Practices under the Ceremoniall Law make any thing for this case, because in those dayes full Compensation was alwayes intended, and ordinarily followed, though absolute necessity (and not such as may be otherwayes avoyded) dispended sundry times, with the imploying of Sacred things.</p>
+            <p>Upon the whole matter, his Majesty hopes, that his two Houses, after a more serious consideration of these and his former Reasons, will clearly discern, that they are not pretended, but reall points of conscience upon which He now sticks; and since by the suspension of Episcopacy for three years, his Majesty hath fully for that time granted his two Houses desires, since he hath reduced the Office of a Bishop, not onely to the Apostolical Institution (which you may say is not de<g ref="char:EOLhyphen"/>sired to be removed) but likewise taken away all those additionall Powers and jurisdictions which can make them liable to the imputation of those grievances and inconveniences mentioned in your Paper; for (as for the Negative voyce in Ordination) His Majesty much wonders, that any can question that power not to have been in the Apostolicall Bishop, it being evident by 1 <hi>Tim.</hi> 5. 22. and <hi>Titus</hi> 1. 5. That sole Ordination was practised by them, since it is more then likely, that upon a solemn debate had with the Divines (accord<g ref="char:EOLhyphen"/>ing to his Majesties former Desires) his Majesty and the two Houses will agree upon a setled forme of Church-government, long before the end of three
+<pb n="6" facs="tcp:162448:5"/> years, whereby all those d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stractions feared after that time will be prevented.</p>
+            <p>And lastly, as for Church-Lands, since by the heavy charging of them, his Majesty hath satisfied those bur<g ref="char:EOLhyphen"/>thens for which they were ingaged; He cannot but hope that his two Houses will rest satisfyed with these and his former Answers; especially considering, that if the Treaty should break upon this (which God forbid) the violence offered to His Majesties consci<g ref="char:EOLhyphen"/>ence (against which you protest) would be too appa<g ref="char:EOLhyphen"/>rent to all the world, besides the confusion that ne<g ref="char:EOLhyphen"/>cessarily must follow in these His Dominions, which is no wayes in his Majesties power to help; for you know who sayes, <hi>What shall it profit a man to gain the whole world, if he lose his own soul?</hi> Whereas by the contrary, the complyance with his Majesty in these particulars, puts him in a right way for the better in<g ref="char:EOLhyphen"/>formation of his Conscience, and in the meane time settles a happy Peace in these distressed Kingdoms.</p>
+            <p>Concerning His Majesties Declaration for a Set-Form of Divine Service, in His Answer of the 4th. of this instant; His Majesty having now observed the la<g ref="char:EOLhyphen"/>titude of the Directory, is willing that that expression shall not be taken as any part of his Answers.</p>
+            <p>As to all other particulars, his Majesty adheres to his former Answers.</p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi>
+                  <date>21 <hi>Novemb.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
